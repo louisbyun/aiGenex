@@ -1,6 +1,7 @@
 # ai-Gene X™ 🧬
 
 AI-powered genomic analysis platform that allows users to upload raw DNA data (VCF files) and receive personalized genetic insights. Built as a full-stack cloud application, ai-Gene X™ combines bioinformatics, machine learning, and secure data handling to deliver health, ancestry, and trait reports, along with AI-based gene type matching.
+![Dashboard](/introduction_aigenex.png)
 
 ---
 
@@ -49,10 +50,14 @@ AI-powered genomic analysis platform that allows users to upload raw DNA data (V
 ## 📷 Screenshots
 1. **Genetics Dashboard** – Interactive overview of detected variants and famous personality matches.
    ![Dashboard](/genetics_dashboard.png)
-3. **Gene Type & Subcategories** – Manage gene types and detailed trait categories.  
-4. **Variant Feature Management** – Annotate variants with effects and scientific references.  
-5. **GeneType RSIDs Mapping** – Visualize SNP mapping for AI-based genetic classification.  
-6. **Gene Type Case Management** – Explore curated examples of famous individuals’ gene types.
+3. **Gene Type & Subcategories** – Manage gene types and detailed trait categories.
+   ![Gene Type](/gene_type.png) 
+5. **Variant Feature Management** – Annotate variants with effects and scientific references.
+   ![Variant Features](/variant_feature.png)
+6. **GeneType RSIDs Mapping** – Visualize SNP mapping for AI-based genetic classification.
+   ![RSIDs Mapping](/genetype_rsids.png) 
+8. **Gene Type Case Management** – Explore curated examples of famous individuals’ gene types.
+   ![Gene Type Case Management](/variantfeature-2.png)
 
 ---
 
