@@ -1,10 +1,18 @@
 # ai-Gene X™ 🧬
 
-AI-powered genomic analysis platform that allows users to upload raw DNA data (VCF files) and receive personalized genetic insights. Built as a full-stack cloud application, ai-Gene X™ combines bioinformatics, machine learning, and secure data handling to deliver health, ancestry, and trait reports, along with AI-based gene type matching.
-
-<p align="center">
-  <img src="/introduction_aigenex.png" alt="Dashboard" width="300">
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <strong>ai-Gene X™</strong><br>
+      AI-powered genomic analysis platform that allows users to upload raw DNA data (VCF files) and receive personalized genetic insights. 
+      Built as a full-stack cloud application, ai-Gene X™ combines bioinformatics, machine learning, and secure data handling 
+      to deliver health, ancestry, and trait reports, along with AI-based gene type matching.
+    </td>
+    <td width="40%" valign="top">
+      <img src="/introduction_aigenex.png" alt="Dashboard" width="300">
+    </td>
+  </tr>
+</table>
 
 ---
 
