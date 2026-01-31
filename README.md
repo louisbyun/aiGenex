@@ -23,7 +23,7 @@
 - Secure upload and optional automatic deletion after analysis.
 - Drag & drop or browse file selection.
   <p align="center">
-  <img src="/upload_vcf.png" alt="Dashboard" width="300">
+  <img src="/upload_vcf.png" alt="Dashboard" width="500">
 </p>
 
 ### 2. AI-Powered Genetic Reports
