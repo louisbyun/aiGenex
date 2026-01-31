@@ -3,7 +3,7 @@
 AI-powered genomic analysis platform that allows users to upload raw DNA data (VCF files) and receive personalized genetic insights. Built as a full-stack cloud application, ai-Gene X™ combines bioinformatics, machine learning, and secure data handling to deliver health, ancestry, and trait reports, along with AI-based gene type matching.
 
 <p align="center">
-  <img src="/introduction_aigenex.png" alt="Dashboard" width="400">
+  <img src="/introduction_aigenex.png" alt="Dashboard" width="300">
 </p>
 
 ---
