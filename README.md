@@ -5,6 +5,7 @@
     <td width="60%" valign="top">
       <strong>ai-Gene X™</strong><br>
       ai-Gene X™ is an AI-powered genomic analysis platform that allows users to upload their raw DNA data (VCF files) and receive personalized genetic insights. The platform combines bioinformatics, machine learning, and secure data handling to deliver health, ancestry, and trait reports — and even infers personality traits from genetic data, offering a data-driven perspective beyond traditional MBTI tests.
+      
 I developed this system out of curiosity: by examining the genes of athletes, scientists, and even my own ancestors, I wondered if we could not only predict disease risks but also gain insights into personal tendencies and innate traits.
     </td>
     <td width="40%" valign="top">
