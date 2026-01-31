@@ -14,6 +14,9 @@ AI-powered genomic analysis platform that allows users to upload raw DNA data (V
 - Supports raw VCF files from 23andMe, AncestryDNA, MyHeritage, and other services.
 - Secure upload and optional automatic deletion after analysis.
 - Drag & drop or browse file selection.
+  <p align="center">
+  <img src="/upload_vcf.png" alt="Dashboard" width="300">
+</p>
 
 ### 2. AI-Powered Genetic Reports
 - Health markers: Trait and disease risk analysis.
