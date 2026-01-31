@@ -4,8 +4,8 @@
   <tr>
     <td width="60%" valign="top">
       <strong>ai-Gene X™</strong><br>
-      AI-powered genomic analysis platform that allows users to upload raw DNA data (VCF files) and receive personalized genetic insights. Built as a full-stack cloud application, ai-Gene X™ combines bioinformatics, machine learning, and secure data handling to deliver health, ancestry, and trait reports, along with AI-based gene type matching. 
-Unlike traditional personality tests such as MBTI, ai-Gene X™ leverages accurate personal genetic data to infer individual personality traits, offering a data-driven, science-backed view of your innate tendencies.
+      ai-Gene X™ is an AI-powered genomic analysis platform that allows users to upload their raw DNA data (VCF files) and receive personalized genetic insights. The platform combines bioinformatics, machine learning, and secure data handling to deliver health, ancestry, and trait reports — and even infers personality traits from genetic data, offering a data-driven perspective beyond traditional MBTI tests.
+I developed this system out of curiosity: by examining the genes of athletes, scientists, and even my own ancestors, I wondered if we could not only predict disease risks but also gain insights into personal tendencies and innate traits.
     </td>
     <td width="40%" valign="top">
       <img src="/introduction_aigenex.png" alt="Dashboard" width="300">
