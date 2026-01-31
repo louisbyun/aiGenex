@@ -37,6 +37,9 @@
 - Beautifully designed cards summarizing your gene type match.
 - Easy to download and share on social media.
 - Only trait-level data used—personal DNA remains private.
+    <p align="center">
+  <img src="/my_dna_variant_card.png" alt="Dashboard" width="1000">
+</p>
 
 ### 4. Privacy & Security
 - Files are encrypted at rest and in transit.
