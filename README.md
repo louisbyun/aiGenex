@@ -48,7 +48,7 @@ AI-powered genomic analysis platform that allows users to upload raw DNA data (V
 
 ## 📷 Screenshots
 1. **Genetics Dashboard** – Interactive overview of detected variants and famous personality matches.
-   ![Dashboard](/genetics_board.png)
+   ![Dashboard](/genetics_dashboard.png)
 3. **Gene Type & Subcategories** – Manage gene types and detailed trait categories.  
 4. **Variant Feature Management** – Annotate variants with effects and scientific references.  
 5. **GeneType RSIDs Mapping** – Visualize SNP mapping for AI-based genetic classification.  
