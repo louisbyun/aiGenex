@@ -58,7 +58,7 @@ I developed this system out of curiosity: by examining the genes of athletes, sc
 ## 🖥️ Tech Stack
 - **Frontend:** Jinja2 templates, Bootstrap 5, Vue.js
 - **Backend:** Flask, Python
-- **Database:** SQLAlchemy ORM
+- **Database:** PostgreSQL / SQLAlchemy ORM
 - **AI/ML:** Custom variant analysis and gene type prediction
 - **Security:** Encrypted file storage, GDPR-compliant data handling
 
