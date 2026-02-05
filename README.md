@@ -26,10 +26,6 @@ I developed this system out of curiosity: by examining the genes of athletes, sc
   <img src="/upload_vcf.png" alt="Dashboard" width="1000">
 </p>
 
-## 🧬 AI Gene X™ – DNA Analysis Demo
-[![DNA Analysis Demo](dna-preview.gif)](https://github.com/louisbyun/aiGenex/blob/main/dna-analysis-1.mp4)
-
-
 ### 2. AI-Powered Genetic Reports
 - Health markers: Trait and disease risk analysis.
 - Carrier status: Detect potential carrier conditions.
