@@ -22,9 +22,11 @@ I developed this system out of curiosity: by examining the genes of athletes, sc
 - Supports raw VCF files from 23andMe, AncestryDNA, MyHeritage, and other services.
 - Secure upload and optional automatic deletion after analysis.
 - Drag & drop or browse file selection.
-  <p align="center">
+<p align="center">
   <img src="/upload_vcf.png" alt="Dashboard" width="1000">
 </p>
+## 🎥 DNA Analysis Demo
+https://github.com/louisbyun/aiGenex/blob/main/dna-analysis-1.mp4
 
 ### 2. AI-Powered Genetic Reports
 - Health markers: Trait and disease risk analysis.
